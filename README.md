@@ -15,3 +15,4 @@ Vous pouvez facilement mettre ce site en ligne avec GitHub Pages :
 - Activez GitHub Pages dans les paramètres
 
 Votre site sera disponible gratuitement en quelques minutes 🚀
+Site officiel de Karima Djellal publié avec GitHub Pages
